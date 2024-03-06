@@ -4,6 +4,8 @@
  *
  */
 
-const { GameDataGenerator } = require('./lib/game-data-generator');
+const { PlayersExperiencePerLevel } = require('./lib/generator/players-experience-per-level');
 
-module.exports.GameDataGenerator = GameDataGenerator;
+module.exports = {
+    PlayersExperiencePerLevel
+};
