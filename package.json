@@ -1,0 +1,40 @@
+{
+    "name": "@reldens/game-data-generator",
+    "scope": "@reldens",
+    "version": "0.1.0",
+    "description": "Reldens - Game Data Generator",
+    "author": "Damian A. Pastorini",
+    "license": "MIT",
+    "homepage": "https://github.com/damian-pastorini/game-data-generator",
+    "source": true,
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/damian-pastorini/game-data-generator.git"
+    },
+    "keywords": [
+        "reldens",
+        "game",
+        "data",
+        "generate",
+        "generator",
+        "random",
+        "nodejs",
+        "javascript",
+        "js",
+        "rpg",
+        "multiplayer",
+        "npc",
+        "player",
+        "enemy",
+        "enemies",
+        "level",
+        "experience"
+    ],
+    "bugs": {
+        "url": "https://github.com/damian-pastorini/game-data-generator/issues"
+    },
+    "dependencies": {
+        "@reldens/utils": "^0.23.0"
+    }
+}
