@@ -15,8 +15,7 @@ const monstersExperiencePerLevel = new MonstersExperiencePerLevel({
         monsterB: {min: 0.10, max: 0.13}, // 10% - 13%
         bossExtra: {min: 0, max: 0.5} // 0% - 50%
     },
-    everyLevelsQuantity: 5,
-
+    everyLevelsQuantity: 5
 });
 
 monstersExperiencePerLevel.generate().catch((error) => {
