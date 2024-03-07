@@ -6,7 +6,6 @@
 
 const { MonstersExperiencePerLevel } = require('../lib/generator/monsters-experience-per-level');
 const playerLevels = require('./players-experience-per-level.json');
-const { Logger } = require('@reldens/utils');
 
 const monstersExperiencePerLevel = new MonstersExperiencePerLevel({
     levelsExperienceByKey: playerLevels,
@@ -18,8 +17,4 @@ const monstersExperiencePerLevel = new MonstersExperiencePerLevel({
     everyLevelsQuantity: 5
 });
 
-monstersExperiencePerLevel.generate().catch((error) => {
-    Logger.error(error);
-}).then(() => {
-    Logger.info('Data saved! Check the "generated" folder.');
-});
+monstersExperiencePerLevel.generate();
