@@ -10,10 +10,12 @@ const playerLevels = require('./players-experience-per-level.json');
 const monstersExperiencePerLevel = new MonstersExperiencePerLevel({
     levelsExperienceByKey: playerLevels,
     variationsMinMax: {
-        monsterA: {min: 0.07, max: 0.10}, // 7% - 10%
-        monsterB: {min: 0.10, max: 0.13}, // 10% - 13%
-        bossExtra: {min: 0, max: 0.5} // 0% - 50%
+        monsterA: 8,
+        monsterB: 12,
+        bossExtra: 25
     },
+    decrementProportionPerLevel: {'5': 0.5, '10': 0.3, '15': 0.2, '20': 0.1, '40': 0.05},
+    decrementProportionDivisor: 0.1,
     everyLevelsQuantity: 5
 });
 
