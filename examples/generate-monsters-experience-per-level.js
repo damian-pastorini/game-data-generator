@@ -16,7 +16,7 @@ const monstersExperiencePerLevel = new MonstersExperiencePerLevel({
     },
     decrementProportionPerLevel: {'5': 0.5, '10': 0.3, '15': 0.2, '20': 0.1, '40': 0.05},
     decrementProportionDivisor: 0.1,
-    everyLevelsQuantity: 5
+    everyLevelsQuantity: 1
 });
 
 monstersExperiencePerLevel.generate();

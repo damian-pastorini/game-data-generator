@@ -1,402 +1,601 @@
 {
     "1": {
         "req": 10,
-        "total": 10
+        "total": 10,
+        "growthFactor": 2
     },
     "2": {
+        "diff": 10,
         "req": 20,
-        "total": 30
+        "total": 30,
+        "growthFactor": 2.005
     },
     "3": {
+        "diff": 20,
         "req": 40,
-        "total": 70
+        "total": 70,
+        "growthFactor": 2.01
     },
     "4": {
+        "diff": 40,
         "req": 80,
-        "total": 150
+        "total": 150,
+        "growthFactor": 2.015
     },
     "5": {
+        "diff": 40,
         "req": 120,
-        "total": 270
+        "total": 270,
+        "growthFactor": 1.505
     },
     "6": {
+        "diff": 60,
         "req": 180,
-        "total": 450
+        "total": 450,
+        "growthFactor": 1.51
     },
     "7": {
+        "diff": 91,
         "req": 271,
-        "total": 721
+        "total": 721,
+        "growthFactor": 1.515
     },
     "8": {
+        "diff": 139,
         "req": 410,
-        "total": 1131
+        "total": 1131,
+        "growthFactor": 1.52
     },
     "9": {
+        "diff": 213,
         "req": 623,
-        "total": 1754
+        "total": 1754,
+        "growthFactor": 1.525
     },
     "10": {
-        "req": 747,
-        "total": 2501
+        "diff": 218,
+        "req": 841,
+        "total": 2595,
+        "growthFactor": 1.355
     },
     "11": {
-        "req": 900,
-        "total": 3401
+        "diff": 298,
+        "req": 1139,
+        "total": 3734,
+        "growthFactor": 1.36
     },
     "12": {
-        "req": 1088,
-        "total": 4489
+        "diff": 410,
+        "req": 1549,
+        "total": 5283,
+        "growthFactor": 1.365
     },
     "13": {
-        "req": 1321,
-        "total": 5810
+        "diff": 565,
+        "req": 2114,
+        "total": 7397,
+        "growthFactor": 1.37
     },
     "14": {
-        "req": 1611,
-        "total": 7421
+        "diff": 782,
+        "req": 2896,
+        "total": 10293,
+        "growthFactor": 1.375
     },
     "15": {
-        "req": 1772,
-        "total": 9193
+        "diff": 784,
+        "req": 3680,
+        "total": 13973,
+        "growthFactor": 1.276
     },
     "16": {
-        "req": 1958,
-        "total": 11151
+        "diff": 1015,
+        "req": 4695,
+        "total": 18668,
+        "growthFactor": 1.281
     },
     "17": {
-        "req": 2173,
-        "total": 13324
+        "diff": 1319,
+        "req": 6014,
+        "total": 24682,
+        "growthFactor": 1.286
     },
     "18": {
-        "req": 2422,
-        "total": 15746
+        "diff": 1720,
+        "req": 7734,
+        "total": 32416,
+        "growthFactor": 1.291
     },
     "19": {
-        "req": 2712,
-        "total": 18458
+        "diff": 2250,
+        "req": 9984,
+        "total": 42400,
+        "growthFactor": 1.296
     },
     "20": {
-        "req": 2712,
-        "total": 21170
+        "diff": 998,
+        "req": 10982,
+        "total": 53382,
+        "growthFactor": 1.105
     },
     "21": {
-        "req": 2725,
-        "total": 23895
+        "diff": 1153,
+        "req": 12135,
+        "total": 65517,
+        "growthFactor": 1.11
     },
     "22": {
-        "req": 2752,
-        "total": 26647
+        "diff": 1334,
+        "req": 13469,
+        "total": 78986,
+        "growthFactor": 1.115
     },
     "23": {
-        "req": 2793,
-        "total": 29440
+        "diff": 1548,
+        "req": 15017,
+        "total": 94003,
+        "growthFactor": 1.12
     },
     "24": {
-        "req": 2848,
-        "total": 32288
+        "diff": 1802,
+        "req": 16819,
+        "total": 110822,
+        "growthFactor": 1.125
     },
     "25": {
-        "req": 2919,
-        "total": 35207
+        "diff": 2102,
+        "req": 18921,
+        "total": 129743,
+        "growthFactor": 1.13
     },
     "26": {
-        "req": 3006,
-        "total": 38213
+        "diff": 2459,
+        "req": 21380,
+        "total": 151123,
+        "growthFactor": 1.135
     },
     "27": {
-        "req": 3111,
-        "total": 41324
+        "diff": 2886,
+        "req": 24266,
+        "total": 175389,
+        "growthFactor": 1.14
     },
     "28": {
-        "req": 3235,
-        "total": 44559
+        "diff": 3397,
+        "req": 27663,
+        "total": 203052,
+        "growthFactor": 1.145
     },
     "29": {
-        "req": 3380,
-        "total": 47939
+        "diff": 4011,
+        "req": 31674,
+        "total": 234726,
+        "growthFactor": 1.15
     },
     "30": {
-        "req": 3548,
-        "total": 51487
+        "diff": 4751,
+        "req": 36425,
+        "total": 271151,
+        "growthFactor": 1.155
     },
     "31": {
-        "req": 3743,
-        "total": 55230
+        "diff": 5645,
+        "req": 42070,
+        "total": 313221,
+        "growthFactor": 1.16
     },
     "32": {
-        "req": 3967,
-        "total": 59197
+        "diff": 6731,
+        "req": 48801,
+        "total": 362022,
+        "growthFactor": 1.165
     },
     "33": {
-        "req": 4224,
-        "total": 63421
+        "diff": 8052,
+        "req": 56853,
+        "total": 418875,
+        "growthFactor": 1.17
     },
     "34": {
-        "req": 4519,
-        "total": 67940
+        "diff": 9665,
+        "req": 66518,
+        "total": 485393,
+        "growthFactor": 1.175
     },
     "35": {
-        "req": 4857,
-        "total": 72797
+        "diff": 11640,
+        "req": 78158,
+        "total": 563551,
+        "growthFactor": 1.18
     },
     "36": {
-        "req": 5245,
-        "total": 78042
+        "diff": 14068,
+        "req": 92226,
+        "total": 655777,
+        "growthFactor": 1.185
     },
     "37": {
-        "req": 5690,
-        "total": 83732
+        "diff": 17061,
+        "req": 109287,
+        "total": 765064,
+        "growthFactor": 1.19
     },
     "38": {
-        "req": 6202,
-        "total": 89934
+        "diff": 20764,
+        "req": 130051,
+        "total": 895115,
+        "growthFactor": 1.195
     },
     "39": {
-        "req": 6791,
-        "total": 96725
+        "diff": 25359,
+        "req": 155410,
+        "total": 1050525,
+        "growthFactor": 1.2
     },
     "40": {
-        "req": 6791,
-        "total": 103516
+        "diff": 0,
+        "req": 155410,
+        "total": 1205935,
+        "growthFactor": 1.005
     },
     "41": {
-        "req": 6824,
-        "total": 110340
+        "diff": 777,
+        "req": 156187,
+        "total": 1362122,
+        "growthFactor": 1.01
     },
     "42": {
-        "req": 6892,
-        "total": 117232
+        "diff": 1561,
+        "req": 157748,
+        "total": 1519870,
+        "growthFactor": 1.015
     },
     "43": {
-        "req": 6995,
-        "total": 124227
+        "diff": 2366,
+        "req": 160114,
+        "total": 1679984,
+        "growthFactor": 1.02
     },
     "44": {
-        "req": 7134,
-        "total": 131361
+        "diff": 3202,
+        "req": 163316,
+        "total": 1843300,
+        "growthFactor": 1.025
     },
     "45": {
-        "req": 7312,
-        "total": 138673
+        "diff": 4082,
+        "req": 167398,
+        "total": 2010698,
+        "growthFactor": 1.03
     },
     "46": {
-        "req": 7531,
-        "total": 146204
+        "diff": 5021,
+        "req": 172419,
+        "total": 2183117,
+        "growthFactor": 1.035
     },
     "47": {
-        "req": 7794,
-        "total": 153998
+        "diff": 6034,
+        "req": 178453,
+        "total": 2361570,
+        "growthFactor": 1.04
     },
     "48": {
-        "req": 8105,
-        "total": 162103
+        "diff": 7138,
+        "req": 185591,
+        "total": 2547161,
+        "growthFactor": 1.045
     },
     "49": {
-        "req": 8469,
-        "total": 170572
+        "diff": 8351,
+        "req": 193942,
+        "total": 2741103,
+        "growthFactor": 1.05
     },
     "50": {
-        "req": 8892,
-        "total": 179464
+        "diff": 9697,
+        "req": 203639,
+        "total": 2944742,
+        "growthFactor": 1.055
     },
     "51": {
-        "req": 9381,
-        "total": 188845
+        "diff": 11200,
+        "req": 214839,
+        "total": 3159581,
+        "growthFactor": 1.06
     },
     "52": {
-        "req": 9943,
-        "total": 198788
+        "diff": 12890,
+        "req": 227729,
+        "total": 3387310,
+        "growthFactor": 1.065
     },
     "53": {
-        "req": 10589,
-        "total": 209377
+        "diff": 14802,
+        "req": 242531,
+        "total": 3629841,
+        "growthFactor": 1.07
     },
     "54": {
-        "req": 11330,
-        "total": 220707
+        "diff": 16977,
+        "req": 259508,
+        "total": 3889349,
+        "growthFactor": 1.075
     },
     "55": {
-        "req": 12179,
-        "total": 232886
+        "diff": 19463,
+        "req": 278971,
+        "total": 4168320,
+        "growthFactor": 1.08
     },
     "56": {
-        "req": 13153,
-        "total": 246039
+        "diff": 22317,
+        "req": 301288,
+        "total": 4469608,
+        "growthFactor": 1.085
     },
     "57": {
-        "req": 14271,
-        "total": 260310
+        "diff": 25609,
+        "req": 326897,
+        "total": 4796505,
+        "growthFactor": 1.09
     },
     "58": {
-        "req": 15555,
-        "total": 275865
+        "diff": 29420,
+        "req": 356317,
+        "total": 5152822,
+        "growthFactor": 1.095
     },
     "59": {
-        "req": 17032,
-        "total": 292897
+        "diff": 33850,
+        "req": 390167,
+        "total": 5542989,
+        "growthFactor": 1.1
     },
     "60": {
-        "req": 18735,
-        "total": 311632
+        "diff": 39016,
+        "req": 429183,
+        "total": 5972172,
+        "growthFactor": 1.105
     },
     "61": {
-        "req": 20702,
-        "total": 332334
+        "diff": 45064,
+        "req": 474247,
+        "total": 6446419,
+        "growthFactor": 1.11
     },
     "62": {
-        "req": 22979,
-        "total": 355313
+        "diff": 52167,
+        "req": 526414,
+        "total": 6972833,
+        "growthFactor": 1.115
     },
     "63": {
-        "req": 25621,
-        "total": 380934
+        "diff": 60537,
+        "req": 586951,
+        "total": 7559784,
+        "growthFactor": 1.12
     },
     "64": {
-        "req": 28695,
-        "total": 409629
+        "diff": 70434,
+        "req": 657385,
+        "total": 8217169,
+        "growthFactor": 1.125
     },
     "65": {
-        "req": 32281,
-        "total": 441910
+        "diff": 82173,
+        "req": 739558,
+        "total": 8956727,
+        "growthFactor": 1.13
     },
     "66": {
-        "req": 36477,
-        "total": 478387
+        "diff": 96142,
+        "req": 835700,
+        "total": 9792427,
+        "growthFactor": 1.135
     },
     "67": {
-        "req": 41401,
-        "total": 519788
+        "diff": 112819,
+        "req": 948519,
+        "total": 10740946,
+        "growthFactor": 1.14
     },
     "68": {
-        "req": 47197,
-        "total": 566985
+        "diff": 132792,
+        "req": 1081311,
+        "total": 11822257,
+        "growthFactor": 1.145
     },
     "69": {
-        "req": 54040,
-        "total": 621025
+        "diff": 156790,
+        "req": 1238101,
+        "total": 13060358,
+        "growthFactor": 1.15
     },
     "70": {
-        "req": 62145,
-        "total": 683170
+        "diff": 185715,
+        "req": 1423816,
+        "total": 14484174,
+        "growthFactor": 1.155
     },
     "71": {
-        "req": 71777,
-        "total": 754947
+        "diff": 220691,
+        "req": 1644507,
+        "total": 16128681,
+        "growthFactor": 1.16
     },
     "72": {
-        "req": 83261,
-        "total": 838208
+        "diff": 263121,
+        "req": 1907628,
+        "total": 18036309,
+        "growthFactor": 1.165
     },
     "73": {
-        "req": 96999,
-        "total": 935207
+        "diff": 314758,
+        "req": 2222386,
+        "total": 20258695,
+        "growthFactor": 1.17
     },
     "74": {
-        "req": 113488,
-        "total": 1048695
+        "diff": 377805,
+        "req": 2600191,
+        "total": 22858886,
+        "growthFactor": 1.175
     },
     "75": {
-        "req": 133348,
-        "total": 1182043
+        "diff": 455033,
+        "req": 3055224,
+        "total": 25914110,
+        "growthFactor": 1.18
     },
     "76": {
-        "req": 157350,
-        "total": 1339393
+        "diff": 549940,
+        "req": 3605164,
+        "total": 29519274,
+        "growthFactor": 1.185
     },
     "77": {
-        "req": 186459,
-        "total": 1525852
+        "diff": 666955,
+        "req": 4272119,
+        "total": 33791393,
+        "growthFactor": 1.19
     },
     "78": {
-        "req": 221886,
-        "total": 1747738
+        "diff": 811702,
+        "req": 5083821,
+        "total": 38875214,
+        "growthFactor": 1.195
     },
     "79": {
-        "req": 265153,
-        "total": 2012891
+        "diff": 991345,
+        "req": 6075166,
+        "total": 44950380,
+        "growthFactor": 1.2
     },
     "80": {
-        "req": 318183,
-        "total": 2331074
+        "diff": 1215033,
+        "req": 7290199,
+        "total": 52240579,
+        "growthFactor": 1.205
     },
     "81": {
-        "req": 383410,
-        "total": 2714484
+        "diff": 1494490,
+        "req": 8784689,
+        "total": 61025268,
+        "growthFactor": 1.21
     },
     "82": {
-        "req": 463926,
-        "total": 3178410
+        "diff": 1844784,
+        "req": 10629473,
+        "total": 71654741,
+        "growthFactor": 1.215
     },
     "83": {
-        "req": 563670,
-        "total": 3742080
+        "diff": 2285336,
+        "req": 12914809,
+        "total": 84569550,
+        "growthFactor": 1.22
     },
     "84": {
-        "req": 687677,
-        "total": 4429757
+        "diff": 2841257,
+        "req": 15756066,
+        "total": 100325616,
+        "growthFactor": 1.225
     },
     "85": {
-        "req": 842404,
-        "total": 5272161
+        "diff": 3545114,
+        "req": 19301180,
+        "total": 119626796,
+        "growthFactor": 1.23
     },
     "86": {
-        "req": 1036156,
-        "total": 6308317
+        "diff": 4439271,
+        "req": 23740451,
+        "total": 143367247,
+        "growthFactor": 1.235
     },
     "87": {
-        "req": 1279652,
-        "total": 7587969
+        "diff": 5579005,
+        "req": 29319456,
+        "total": 172686703,
+        "growthFactor": 1.24
     },
     "88": {
-        "req": 1586768,
-        "total": 9174737
+        "diff": 7036669,
+        "req": 36356125,
+        "total": 209042828,
+        "growthFactor": 1.245
     },
     "89": {
-        "req": 1975526,
-        "total": 11150263
+        "diff": 8907250,
+        "req": 45263375,
+        "total": 254306203,
+        "growthFactor": 1.25
     },
     "90": {
-        "req": 2469407,
-        "total": 13619670
+        "diff": 11315843,
+        "req": 56579218,
+        "total": 310885421,
+        "growthFactor": 1.255
     },
     "91": {
-        "req": 3099105,
-        "total": 16718775
+        "diff": 14427700,
+        "req": 71006918,
+        "total": 381892339,
+        "growthFactor": 1.26
     },
     "92": {
-        "req": 3904872,
-        "total": 20623647
+        "diff": 18461798,
+        "req": 89468716,
+        "total": 471361055,
+        "growthFactor": 1.265
     },
     "93": {
-        "req": 4939663,
-        "total": 25563310
+        "diff": 23709209,
+        "req": 113177925,
+        "total": 584538980,
+        "growthFactor": 1.27
     },
     "94": {
-        "req": 6273372,
-        "total": 31836682
+        "diff": 30558039,
+        "req": 143735964,
+        "total": 728274944,
+        "growthFactor": 1.275
     },
     "95": {
-        "req": 7998549,
-        "total": 39835231
+        "diff": 39527390,
+        "req": 183263354,
+        "total": 911538298,
+        "growthFactor": 1.28
     },
     "96": {
-        "req": 10238142,
-        "total": 50073373
+        "diff": 51313739,
+        "req": 234577093,
+        "total": 1146115391,
+        "growthFactor": 1.285
     },
     "97": {
-        "req": 13156012,
-        "total": 63229385
+        "diff": 66854471,
+        "req": 301431564,
+        "total": 1447546955,
+        "growthFactor": 1.29
     },
     "98": {
-        "req": 16971255,
-        "total": 80200640
+        "diff": 87415153,
+        "req": 388846717,
+        "total": 1836393672,
+        "growthFactor": 1.295
     },
     "99": {
-        "req": 21977775,
-        "total": 102178415
+        "diff": 114709781,
+        "req": 503556498,
+        "total": 2339950170,
+        "growthFactor": 1.3
     },
     "100": {
-        "req": 28571107,
-        "total": 130749522
+        "diff": 151066949,
+        "req": 654623447,
+        "total": 2994573617,
+        "growthFactor": 1.305
     }
 }
