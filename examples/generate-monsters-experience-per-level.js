@@ -14,7 +14,16 @@ const monstersExperiencePerLevel = new MonstersExperiencePerLevel({
         monsterB: 12,
         bossExtra: 25
     },
-    decrementProportionPerLevel: {'5': 0.5, '10': 0.4, '15': 0.3, '20': 0.18, '25': 0.1, '30': 0}
+    decrementProportionPerLevel: {
+        '5': 0.8,
+        '10': 0.42,
+        '15': 0.4,
+        '20': 0.26,
+        '25': 0.15,
+        '30': 0.1,
+        '35': 0.08,
+        '40': 0.0025
+    }
 });
 
 monstersExperiencePerLevel.generate();
