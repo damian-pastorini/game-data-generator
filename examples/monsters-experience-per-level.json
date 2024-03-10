@@ -1,0 +1,2401 @@
+{
+    "1": {
+        "req": 10,
+        "total": 10,
+        "growthFactor": 2,
+        "monsterA": {
+            "decrementProportion": 0,
+            "randomVariation": 8,
+            "exp": 1,
+            "kills": 10
+        },
+        "monsterB": {
+            "decrementProportion": 0,
+            "randomVariation": 9,
+            "exp": 1,
+            "kills": 10
+        },
+        "bossExtra": {
+            "decrementProportion": 0,
+            "randomVariation": 15,
+            "exp": 2,
+            "kills": 5
+        }
+    },
+    "2": {
+        "diff": 10,
+        "req": 20,
+        "total": 30,
+        "growthFactor": 2.005,
+        "monsterA": {
+            "decrementProportion": 0,
+            "randomVariation": 8,
+            "exp": 2,
+            "kills": 10
+        },
+        "monsterB": {
+            "decrementProportion": 0,
+            "randomVariation": 9,
+            "exp": 2,
+            "kills": 10
+        },
+        "bossExtra": {
+            "decrementProportion": 0,
+            "randomVariation": 15,
+            "exp": 3,
+            "kills": 7
+        }
+    },
+    "3": {
+        "diff": 20,
+        "req": 40,
+        "total": 70,
+        "growthFactor": 2.01,
+        "monsterA": {
+            "decrementProportion": 0,
+            "randomVariation": 8,
+            "exp": 3,
+            "kills": 14
+        },
+        "monsterB": {
+            "decrementProportion": 0,
+            "randomVariation": 9,
+            "exp": 4,
+            "kills": 10
+        },
+        "bossExtra": {
+            "decrementProportion": 0,
+            "randomVariation": 15,
+            "exp": 6,
+            "kills": 7
+        }
+    },
+    "4": {
+        "diff": 40,
+        "req": 80,
+        "total": 150,
+        "growthFactor": 2.015,
+        "monsterA": {
+            "decrementProportion": 0,
+            "randomVariation": 8,
+            "exp": 6,
+            "kills": 14
+        },
+        "monsterB": {
+            "decrementProportion": 0,
+            "randomVariation": 9,
+            "exp": 7,
+            "kills": 12
+        },
+        "bossExtra": {
+            "decrementProportion": 0,
+            "randomVariation": 15,
+            "exp": 12,
+            "kills": 7
+        }
+    },
+    "5": {
+        "diff": 40,
+        "req": 120,
+        "total": 270,
+        "growthFactor": 1.505,
+        "monsterA": {
+            "decrementProportion": 0.8,
+            "randomVariation": 7.2,
+            "exp": 9,
+            "kills": 14
+        },
+        "monsterB": {
+            "decrementProportion": 0.8,
+            "randomVariation": 8.2,
+            "exp": 10,
+            "kills": 12
+        },
+        "bossExtra": {
+            "decrementProportion": 0.8,
+            "randomVariation": 14.2,
+            "exp": 17,
+            "kills": 8
+        }
+    },
+    "6": {
+        "diff": 60,
+        "req": 180,
+        "total": 450,
+        "growthFactor": 1.51,
+        "monsterA": {
+            "decrementProportion": 0.8,
+            "randomVariation": 6.4,
+            "exp": 12,
+            "kills": 15
+        },
+        "monsterB": {
+            "decrementProportion": 0.8,
+            "randomVariation": 7.4,
+            "exp": 13,
+            "kills": 14
+        },
+        "bossExtra": {
+            "decrementProportion": 0.8,
+            "randomVariation": 13.4,
+            "exp": 24,
+            "kills": 8
+        }
+    },
+    "7": {
+        "diff": 91,
+        "req": 271,
+        "total": 721,
+        "growthFactor": 1.515,
+        "monsterA": {
+            "decrementProportion": 0.8,
+            "randomVariation": 5.6,
+            "exp": 15,
+            "kills": 19
+        },
+        "monsterB": {
+            "decrementProportion": 0.8,
+            "randomVariation": 6.6,
+            "exp": 18,
+            "kills": 16
+        },
+        "bossExtra": {
+            "decrementProportion": 0.8,
+            "randomVariation": 12.6,
+            "exp": 34,
+            "kills": 8
+        }
+    },
+    "8": {
+        "diff": 139,
+        "req": 410,
+        "total": 1131,
+        "growthFactor": 1.52,
+        "monsterA": {
+            "decrementProportion": 0.8,
+            "randomVariation": 4.8,
+            "exp": 20,
+            "kills": 21
+        },
+        "monsterB": {
+            "decrementProportion": 0.8,
+            "randomVariation": 5.8,
+            "exp": 24,
+            "kills": 18
+        },
+        "bossExtra": {
+            "decrementProportion": 0.8,
+            "randomVariation": 11.8,
+            "exp": 48,
+            "kills": 9
+        }
+    },
+    "9": {
+        "diff": 213,
+        "req": 623,
+        "total": 1754,
+        "growthFactor": 1.525,
+        "monsterA": {
+            "decrementProportion": 0.8,
+            "randomVariation": 4,
+            "exp": 25,
+            "kills": 25
+        },
+        "monsterB": {
+            "decrementProportion": 0.8,
+            "randomVariation": 5,
+            "exp": 31,
+            "kills": 21
+        },
+        "bossExtra": {
+            "decrementProportion": 0.8,
+            "randomVariation": 11,
+            "exp": 69,
+            "kills": 10
+        }
+    },
+    "10": {
+        "diff": 218,
+        "req": 841,
+        "total": 2595,
+        "growthFactor": 1.355,
+        "monsterA": {
+            "decrementProportion": 0.42,
+            "randomVariation": 3.58,
+            "exp": 30,
+            "kills": 29
+        },
+        "monsterB": {
+            "decrementProportion": 0.42,
+            "randomVariation": 4.58,
+            "exp": 39,
+            "kills": 22
+        },
+        "bossExtra": {
+            "decrementProportion": 0.42,
+            "randomVariation": 10.58,
+            "exp": 89,
+            "kills": 10
+        }
+    },
+    "11": {
+        "diff": 298,
+        "req": 1139,
+        "total": 3734,
+        "growthFactor": 1.36,
+        "monsterA": {
+            "decrementProportion": 0.42,
+            "randomVariation": 3.16,
+            "exp": 36,
+            "kills": 32
+        },
+        "monsterB": {
+            "decrementProportion": 0.42,
+            "randomVariation": 4.16,
+            "exp": 47,
+            "kills": 25
+        },
+        "bossExtra": {
+            "decrementProportion": 0.42,
+            "randomVariation": 10.16,
+            "exp": 116,
+            "kills": 10
+        }
+    },
+    "12": {
+        "diff": 410,
+        "req": 1549,
+        "total": 5283,
+        "growthFactor": 1.365,
+        "monsterA": {
+            "decrementProportion": 0.42,
+            "randomVariation": 2.74,
+            "exp": 42,
+            "kills": 37
+        },
+        "monsterB": {
+            "decrementProportion": 0.42,
+            "randomVariation": 3.74,
+            "exp": 58,
+            "kills": 27
+        },
+        "bossExtra": {
+            "decrementProportion": 0.42,
+            "randomVariation": 9.74,
+            "exp": 151,
+            "kills": 11
+        }
+    },
+    "13": {
+        "diff": 565,
+        "req": 2114,
+        "total": 7397,
+        "growthFactor": 1.37,
+        "monsterA": {
+            "decrementProportion": 0.42,
+            "randomVariation": 2.32,
+            "exp": 49,
+            "kills": 44
+        },
+        "monsterB": {
+            "decrementProportion": 0.42,
+            "randomVariation": 3.32,
+            "exp": 70,
+            "kills": 31
+        },
+        "bossExtra": {
+            "decrementProportion": 0.42,
+            "randomVariation": 9.32,
+            "exp": 197,
+            "kills": 11
+        }
+    },
+    "14": {
+        "diff": 782,
+        "req": 2896,
+        "total": 10293,
+        "growthFactor": 1.375,
+        "monsterA": {
+            "decrementProportion": 0.42,
+            "randomVariation": 1.9,
+            "exp": 55,
+            "kills": 53
+        },
+        "monsterB": {
+            "decrementProportion": 0.42,
+            "randomVariation": 2.9,
+            "exp": 84,
+            "kills": 35
+        },
+        "bossExtra": {
+            "decrementProportion": 0.42,
+            "randomVariation": 8.9,
+            "exp": 258,
+            "kills": 12
+        }
+    },
+    "15": {
+        "diff": 784,
+        "req": 3680,
+        "total": 13973,
+        "growthFactor": 1.276,
+        "monsterA": {
+            "decrementProportion": 0.4,
+            "randomVariation": 1.5,
+            "exp": 55,
+            "kills": 67
+        },
+        "monsterB": {
+            "decrementProportion": 0.4,
+            "randomVariation": 2.5,
+            "exp": 92,
+            "kills": 40
+        },
+        "bossExtra": {
+            "decrementProportion": 0.4,
+            "randomVariation": 8.5,
+            "exp": 313,
+            "kills": 12
+        }
+    },
+    "16": {
+        "diff": 1015,
+        "req": 4695,
+        "total": 18668,
+        "growthFactor": 1.281,
+        "monsterA": {
+            "decrementProportion": 0.32,
+            "randomVariation": 1.18,
+            "exp": 55,
+            "kills": 86
+        },
+        "monsterB": {
+            "decrementProportion": 0.4,
+            "randomVariation": 2.1,
+            "exp": 99,
+            "kills": 48
+        },
+        "bossExtra": {
+            "decrementProportion": 0.4,
+            "randomVariation": 8.1,
+            "exp": 380,
+            "kills": 13
+        }
+    },
+    "17": {
+        "diff": 1319,
+        "req": 6014,
+        "total": 24682,
+        "growthFactor": 1.286,
+        "monsterA": {
+            "decrementProportion": 0.256,
+            "randomVariation": 0.924,
+            "exp": 56,
+            "kills": 108
+        },
+        "monsterB": {
+            "decrementProportion": 0.4,
+            "randomVariation": 1.7,
+            "exp": 102,
+            "kills": 59
+        },
+        "bossExtra": {
+            "decrementProportion": 0.4,
+            "randomVariation": 7.7,
+            "exp": 463,
+            "kills": 13
+        }
+    },
+    "18": {
+        "diff": 1720,
+        "req": 7734,
+        "total": 32416,
+        "growthFactor": 1.291,
+        "monsterA": {
+            "decrementProportion": 0.2048,
+            "randomVariation": 0.7192,
+            "exp": 56,
+            "kills": 139
+        },
+        "monsterB": {
+            "decrementProportion": 0.36,
+            "randomVariation": 1.34,
+            "exp": 104,
+            "kills": 75
+        },
+        "bossExtra": {
+            "decrementProportion": 0.4,
+            "randomVariation": 7.3,
+            "exp": 565,
+            "kills": 14
+        }
+    },
+    "19": {
+        "diff": 2250,
+        "req": 9984,
+        "total": 42400,
+        "growthFactor": 1.296,
+        "monsterA": {
+            "decrementProportion": 0.14336,
+            "randomVariation": 0.57584,
+            "exp": 57,
+            "kills": 176
+        },
+        "monsterB": {
+            "decrementProportion": 0.288,
+            "randomVariation": 1.052,
+            "exp": 105,
+            "kills": 96
+        },
+        "bossExtra": {
+            "decrementProportion": 0.4,
+            "randomVariation": 6.9,
+            "exp": 689,
+            "kills": 15
+        }
+    },
+    "20": {
+        "diff": 998,
+        "req": 10982,
+        "total": 53382,
+        "growthFactor": 1.105,
+        "monsterA": {
+            "decrementProportion": 0.052,
+            "randomVariation": 0.52384,
+            "exp": 58,
+            "kills": 190
+        },
+        "monsterB": {
+            "decrementProportion": 0.078,
+            "randomVariation": 0.974,
+            "exp": 107,
+            "kills": 103
+        },
+        "bossExtra": {
+            "decrementProportion": 0.26,
+            "randomVariation": 6.64,
+            "exp": 729,
+            "kills": 16
+        }
+    },
+    "21": {
+        "diff": 1153,
+        "req": 12135,
+        "total": 65517,
+        "growthFactor": 1.11,
+        "monsterA": {
+            "decrementProportion": 0.0468,
+            "randomVariation": 0.47704,
+            "exp": 58,
+            "kills": 210
+        },
+        "monsterB": {
+            "decrementProportion": 0.078,
+            "randomVariation": 0.896,
+            "exp": 109,
+            "kills": 112
+        },
+        "bossExtra": {
+            "decrementProportion": 0.26,
+            "randomVariation": 6.38,
+            "exp": 774,
+            "kills": 16
+        }
+    },
+    "22": {
+        "diff": 1334,
+        "req": 13469,
+        "total": 78986,
+        "growthFactor": 1.115,
+        "monsterA": {
+            "decrementProportion": 0.0468,
+            "randomVariation": 0.43024,
+            "exp": 58,
+            "kills": 233
+        },
+        "monsterB": {
+            "decrementProportion": 0.078,
+            "randomVariation": 0.818,
+            "exp": 110,
+            "kills": 123
+        },
+        "bossExtra": {
+            "decrementProportion": 0.26,
+            "randomVariation": 6.12,
+            "exp": 824,
+            "kills": 17
+        }
+    },
+    "23": {
+        "diff": 1548,
+        "req": 15017,
+        "total": 94003,
+        "growthFactor": 1.12,
+        "monsterA": {
+            "decrementProportion": 0.0468,
+            "randomVariation": 0.38344,
+            "exp": 58,
+            "kills": 259
+        },
+        "monsterB": {
+            "decrementProportion": 0.078,
+            "randomVariation": 0.74,
+            "exp": 111,
+            "kills": 136
+        },
+        "bossExtra": {
+            "decrementProportion": 0.26,
+            "randomVariation": 5.86,
+            "exp": 880,
+            "kills": 18
+        }
+    },
+    "24": {
+        "diff": 1802,
+        "req": 16819,
+        "total": 110822,
+        "growthFactor": 1.125,
+        "monsterA": {
+            "decrementProportion": 0.03744,
+            "randomVariation": 0.346,
+            "exp": 58,
+            "kills": 290
+        },
+        "monsterB": {
+            "decrementProportion": 0.078,
+            "randomVariation": 0.662,
+            "exp": 111,
+            "kills": 152
+        },
+        "bossExtra": {
+            "decrementProportion": 0.26,
+            "randomVariation": 5.6,
+            "exp": 942,
+            "kills": 18
+        }
+    },
+    "25": {
+        "diff": 2102,
+        "req": 18921,
+        "total": 129743,
+        "growthFactor": 1.13,
+        "monsterA": {
+            "decrementProportion": 0.03,
+            "randomVariation": 0.316,
+            "exp": 60,
+            "kills": 316
+        },
+        "monsterB": {
+            "decrementProportion": 0.075,
+            "randomVariation": 0.587,
+            "exp": 111,
+            "kills": 171
+        },
+        "bossExtra": {
+            "decrementProportion": 0.15,
+            "randomVariation": 5.45,
+            "exp": 1031,
+            "kills": 19
+        }
+    },
+    "26": {
+        "diff": 2459,
+        "req": 21380,
+        "total": 151123,
+        "growthFactor": 1.135,
+        "monsterA": {
+            "decrementProportion": 0.03,
+            "randomVariation": 0.286,
+            "exp": 61,
+            "kills": 351
+        },
+        "monsterB": {
+            "decrementProportion": 0.0675,
+            "randomVariation": 0.5195,
+            "exp": 111,
+            "kills": 193
+        },
+        "bossExtra": {
+            "decrementProportion": 0.15,
+            "randomVariation": 5.3,
+            "exp": 1133,
+            "kills": 19
+        }
+    },
+    "27": {
+        "diff": 2886,
+        "req": 24266,
+        "total": 175389,
+        "growthFactor": 1.14,
+        "monsterA": {
+            "decrementProportion": 0.03,
+            "randomVariation": 0.256,
+            "exp": 62,
+            "kills": 392
+        },
+        "monsterB": {
+            "decrementProportion": 0.06075,
+            "randomVariation": 0.45875,
+            "exp": 111,
+            "kills": 219
+        },
+        "bossExtra": {
+            "decrementProportion": 0.15,
+            "randomVariation": 5.15,
+            "exp": 1250,
+            "kills": 20
+        }
+    },
+    "28": {
+        "diff": 3397,
+        "req": 27663,
+        "total": 203052,
+        "growthFactor": 1.145,
+        "monsterA": {
+            "decrementProportion": 0.03,
+            "randomVariation": 0.226,
+            "exp": 63,
+            "kills": 440
+        },
+        "monsterB": {
+            "decrementProportion": 0.05468,
+            "randomVariation": 0.40407,
+            "exp": 112,
+            "kills": 247
+        },
+        "bossExtra": {
+            "decrementProportion": 0.15,
+            "randomVariation": 5,
+            "exp": 1383,
+            "kills": 21
+        }
+    },
+    "29": {
+        "diff": 4011,
+        "req": 31674,
+        "total": 234726,
+        "growthFactor": 1.15,
+        "monsterA": {
+            "decrementProportion": 0.027,
+            "randomVariation": 0.199,
+            "exp": 63,
+            "kills": 503
+        },
+        "monsterB": {
+            "decrementProportion": 0.04921,
+            "randomVariation": 0.35486,
+            "exp": 112,
+            "kills": 283
+        },
+        "bossExtra": {
+            "decrementProportion": 0.15,
+            "randomVariation": 4.85,
+            "exp": 1536,
+            "kills": 21
+        }
+    },
+    "30": {
+        "diff": 4751,
+        "req": 36425,
+        "total": 271151,
+        "growthFactor": 1.155,
+        "monsterA": {
+            "decrementProportion": 0.02,
+            "randomVariation": 0.179,
+            "exp": 65,
+            "kills": 561
+        },
+        "monsterB": {
+            "decrementProportion": 0.04,
+            "randomVariation": 0.31486,
+            "exp": 115,
+            "kills": 317
+        },
+        "bossExtra": {
+            "decrementProportion": 0.1,
+            "randomVariation": 4.75,
+            "exp": 1730,
+            "kills": 22
+        }
+    },
+    "31": {
+        "diff": 5645,
+        "req": 42070,
+        "total": 313221,
+        "growthFactor": 1.16,
+        "monsterA": {
+            "decrementProportion": 0.02,
+            "randomVariation": 0.159,
+            "exp": 67,
+            "kills": 628
+        },
+        "monsterB": {
+            "decrementProportion": 0.04,
+            "randomVariation": 0.27486,
+            "exp": 116,
+            "kills": 363
+        },
+        "bossExtra": {
+            "decrementProportion": 0.1,
+            "randomVariation": 4.65,
+            "exp": 1956,
+            "kills": 22
+        }
+    },
+    "32": {
+        "diff": 6731,
+        "req": 48801,
+        "total": 362022,
+        "growthFactor": 1.165,
+        "monsterA": {
+            "decrementProportion": 0.02,
+            "randomVariation": 0.139,
+            "exp": 68,
+            "kills": 718
+        },
+        "monsterB": {
+            "decrementProportion": 0.036,
+            "randomVariation": 0.23886,
+            "exp": 117,
+            "kills": 418
+        },
+        "bossExtra": {
+            "decrementProportion": 0.1,
+            "randomVariation": 4.55,
+            "exp": 2220,
+            "kills": 22
+        }
+    },
+    "33": {
+        "diff": 8052,
+        "req": 56853,
+        "total": 418875,
+        "growthFactor": 1.17,
+        "monsterA": {
+            "decrementProportion": 0.02,
+            "randomVariation": 0.119,
+            "exp": 68,
+            "kills": 837
+        },
+        "monsterB": {
+            "decrementProportion": 0.0324,
+            "randomVariation": 0.20646,
+            "exp": 117,
+            "kills": 486
+        },
+        "bossExtra": {
+            "decrementProportion": 0.1,
+            "randomVariation": 4.45,
+            "exp": 2530,
+            "kills": 23
+        }
+    },
+    "34": {
+        "diff": 9665,
+        "req": 66518,
+        "total": 485393,
+        "growthFactor": 1.175,
+        "monsterA": {
+            "decrementProportion": 0.016,
+            "randomVariation": 0.103,
+            "exp": 69,
+            "kills": 965
+        },
+        "monsterB": {
+            "decrementProportion": 0.02916,
+            "randomVariation": 0.1773,
+            "exp": 118,
+            "kills": 564
+        },
+        "bossExtra": {
+            "decrementProportion": 0.1,
+            "randomVariation": 4.35,
+            "exp": 2894,
+            "kills": 23
+        }
+    },
+    "35": {
+        "diff": 11640,
+        "req": 78158,
+        "total": 563551,
+        "growthFactor": 1.18,
+        "monsterA": {
+            "decrementProportion": 0.008,
+            "randomVariation": 0.095,
+            "exp": 74,
+            "kills": 1057
+        },
+        "monsterB": {
+            "decrementProportion": 0.024,
+            "randomVariation": 0.1533,
+            "exp": 120,
+            "kills": 652
+        },
+        "bossExtra": {
+            "decrementProportion": 0.08,
+            "randomVariation": 4.27,
+            "exp": 3337,
+            "kills": 24
+        }
+    },
+    "36": {
+        "diff": 14068,
+        "req": 92226,
+        "total": 655777,
+        "growthFactor": 1.185,
+        "monsterA": {
+            "decrementProportion": 0.008,
+            "randomVariation": 0.087,
+            "exp": 80,
+            "kills": 1153
+        },
+        "monsterB": {
+            "decrementProportion": 0.0216,
+            "randomVariation": 0.1317,
+            "exp": 121,
+            "kills": 763
+        },
+        "bossExtra": {
+            "decrementProportion": 0.08,
+            "randomVariation": 4.19,
+            "exp": 3864,
+            "kills": 24
+        }
+    },
+    "37": {
+        "diff": 17061,
+        "req": 109287,
+        "total": 765064,
+        "growthFactor": 1.19,
+        "monsterA": {
+            "decrementProportion": 0.008,
+            "randomVariation": 0.079,
+            "exp": 86,
+            "kills": 1271
+        },
+        "monsterB": {
+            "decrementProportion": 0.01944,
+            "randomVariation": 0.11226,
+            "exp": 123,
+            "kills": 889
+        },
+        "bossExtra": {
+            "decrementProportion": 0.08,
+            "randomVariation": 4.11,
+            "exp": 4492,
+            "kills": 25
+        }
+    },
+    "38": {
+        "diff": 20764,
+        "req": 130051,
+        "total": 895115,
+        "growthFactor": 1.195,
+        "monsterA": {
+            "decrementProportion": 0.008,
+            "randomVariation": 0.071,
+            "exp": 92,
+            "kills": 1414
+        },
+        "monsterB": {
+            "decrementProportion": 0.0175,
+            "randomVariation": 0.09476,
+            "exp": 123,
+            "kills": 1058
+        },
+        "bossExtra": {
+            "decrementProportion": 0.08,
+            "randomVariation": 4.03,
+            "exp": 5241,
+            "kills": 25
+        }
+    },
+    "39": {
+        "diff": 25359,
+        "req": 155410,
+        "total": 1050525,
+        "growthFactor": 1.2,
+        "monsterA": {
+            "decrementProportion": 0.008,
+            "randomVariation": 0.063,
+            "exp": 98,
+            "kills": 1586
+        },
+        "monsterB": {
+            "decrementProportion": 0.01575,
+            "randomVariation": 0.07901,
+            "exp": 123,
+            "kills": 1264
+        },
+        "bossExtra": {
+            "decrementProportion": 0.08,
+            "randomVariation": 3.95,
+            "exp": 6139,
+            "kills": 26
+        }
+    },
+    "40": {
+        "diff": 0,
+        "req": 155410,
+        "total": 1205935,
+        "growthFactor": 1.005,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.06275,
+            "exp": 98,
+            "kills": 1586
+        },
+        "monsterB": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 0.07651,
+            "exp": 119,
+            "kills": 1306
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.9475,
+            "exp": 6135,
+            "kills": 26
+        }
+    },
+    "41": {
+        "diff": 777,
+        "req": 156187,
+        "total": 1362122,
+        "growthFactor": 1.01,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.0625,
+            "exp": 98,
+            "kills": 1594
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.07601,
+            "exp": 119,
+            "kills": 1313
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.945,
+            "exp": 6162,
+            "kills": 26
+        }
+    },
+    "42": {
+        "diff": 1561,
+        "req": 157748,
+        "total": 1519870,
+        "growthFactor": 1.015,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.06225,
+            "exp": 98,
+            "kills": 1610
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.07551,
+            "exp": 119,
+            "kills": 1326
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.9425,
+            "exp": 6219,
+            "kills": 26
+        }
+    },
+    "43": {
+        "diff": 2366,
+        "req": 160114,
+        "total": 1679984,
+        "growthFactor": 1.02,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.062,
+            "exp": 99,
+            "kills": 1618
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.07501,
+            "exp": 120,
+            "kills": 1335
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.94,
+            "exp": 6308,
+            "kills": 26
+        }
+    },
+    "44": {
+        "diff": 3202,
+        "req": 163316,
+        "total": 1843300,
+        "growthFactor": 1.025,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.06175,
+            "exp": 101,
+            "kills": 1617
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.07451,
+            "exp": 122,
+            "kills": 1339
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.9375,
+            "exp": 6431,
+            "kills": 26
+        }
+    },
+    "45": {
+        "diff": 4082,
+        "req": 167398,
+        "total": 2010698,
+        "growthFactor": 1.03,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.0615,
+            "exp": 103,
+            "kills": 1626
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.07401,
+            "exp": 124,
+            "kills": 1350
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.935,
+            "exp": 6587,
+            "kills": 26
+        }
+    },
+    "46": {
+        "diff": 5021,
+        "req": 172419,
+        "total": 2183117,
+        "growthFactor": 1.035,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.06125,
+            "exp": 106,
+            "kills": 1627
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.07351,
+            "exp": 127,
+            "kills": 1358
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.9325,
+            "exp": 6780,
+            "kills": 26
+        }
+    },
+    "47": {
+        "diff": 6034,
+        "req": 178453,
+        "total": 2361570,
+        "growthFactor": 1.04,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.061,
+            "exp": 109,
+            "kills": 1638
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.07301,
+            "exp": 130,
+            "kills": 1373
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.93,
+            "exp": 7013,
+            "kills": 26
+        }
+    },
+    "48": {
+        "diff": 7138,
+        "req": 185591,
+        "total": 2547161,
+        "growthFactor": 1.045,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.06075,
+            "exp": 113,
+            "kills": 1643
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.07251,
+            "exp": 135,
+            "kills": 1375
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.9275,
+            "exp": 7289,
+            "kills": 26
+        }
+    },
+    "49": {
+        "diff": 8351,
+        "req": 193942,
+        "total": 2741103,
+        "growthFactor": 1.05,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.0605,
+            "exp": 117,
+            "kills": 1658
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.07201,
+            "exp": 140,
+            "kills": 1386
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.925,
+            "exp": 7612,
+            "kills": 26
+        }
+    },
+    "50": {
+        "diff": 9697,
+        "req": 203639,
+        "total": 2944742,
+        "growthFactor": 1.055,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.06025,
+            "exp": 123,
+            "kills": 1656
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.07151,
+            "exp": 146,
+            "kills": 1395
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.9225,
+            "exp": 7988,
+            "kills": 26
+        }
+    },
+    "51": {
+        "diff": 11200,
+        "req": 214839,
+        "total": 3159581,
+        "growthFactor": 1.06,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.06,
+            "exp": 129,
+            "kills": 1666
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.07101,
+            "exp": 153,
+            "kills": 1405
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.92,
+            "exp": 8422,
+            "kills": 26
+        }
+    },
+    "52": {
+        "diff": 12890,
+        "req": 227729,
+        "total": 3387310,
+        "growthFactor": 1.065,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05975,
+            "exp": 136,
+            "kills": 1675
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.07051,
+            "exp": 161,
+            "kills": 1415
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.9175,
+            "exp": 8921,
+            "kills": 26
+        }
+    },
+    "53": {
+        "diff": 14802,
+        "req": 242531,
+        "total": 3629841,
+        "growthFactor": 1.07,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.0595,
+            "exp": 144,
+            "kills": 1685
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.07001,
+            "exp": 170,
+            "kills": 1427
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.915,
+            "exp": 9495,
+            "kills": 26
+        }
+    },
+    "54": {
+        "diff": 16977,
+        "req": 259508,
+        "total": 3889349,
+        "growthFactor": 1.075,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05925,
+            "exp": 154,
+            "kills": 1686
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.06951,
+            "exp": 180,
+            "kills": 1442
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.9125,
+            "exp": 10153,
+            "kills": 26
+        }
+    },
+    "55": {
+        "diff": 19463,
+        "req": 278971,
+        "total": 4168320,
+        "growthFactor": 1.08,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.059,
+            "exp": 165,
+            "kills": 1691
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.06901,
+            "exp": 193,
+            "kills": 1446
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.91,
+            "exp": 10908,
+            "kills": 26
+        }
+    },
+    "56": {
+        "diff": 22317,
+        "req": 301288,
+        "total": 4469608,
+        "growthFactor": 1.085,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05875,
+            "exp": 177,
+            "kills": 1703
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.06851,
+            "exp": 206,
+            "kills": 1463
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.9075,
+            "exp": 11773,
+            "kills": 26
+        }
+    },
+    "57": {
+        "diff": 25609,
+        "req": 326897,
+        "total": 4796505,
+        "growthFactor": 1.09,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.0585,
+            "exp": 191,
+            "kills": 1712
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.06801,
+            "exp": 222,
+            "kills": 1473
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.905,
+            "exp": 12765,
+            "kills": 26
+        }
+    },
+    "58": {
+        "diff": 29420,
+        "req": 356317,
+        "total": 5152822,
+        "growthFactor": 1.095,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05825,
+            "exp": 208,
+            "kills": 1714
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.06751,
+            "exp": 241,
+            "kills": 1479
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.9025,
+            "exp": 13905,
+            "kills": 26
+        }
+    },
+    "59": {
+        "diff": 33850,
+        "req": 390167,
+        "total": 5542989,
+        "growthFactor": 1.1,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.058,
+            "exp": 226,
+            "kills": 1727
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.06701,
+            "exp": 261,
+            "kills": 1495
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.9,
+            "exp": 15217,
+            "kills": 26
+        }
+    },
+    "60": {
+        "diff": 39016,
+        "req": 429183,
+        "total": 5972172,
+        "growthFactor": 1.105,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05775,
+            "exp": 248,
+            "kills": 1731
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.06651,
+            "exp": 285,
+            "kills": 1506
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8975,
+            "exp": 16727,
+            "kills": 26
+        }
+    },
+    "61": {
+        "diff": 45064,
+        "req": 474247,
+        "total": 6446419,
+        "growthFactor": 1.11,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.0575,
+            "exp": 273,
+            "kills": 1738
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.06601,
+            "exp": 313,
+            "kills": 1516
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.895,
+            "exp": 18472,
+            "kills": 26
+        }
+    },
+    "62": {
+        "diff": 52167,
+        "req": 526414,
+        "total": 6972833,
+        "growthFactor": 1.115,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05725,
+            "exp": 301,
+            "kills": 1749
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.06551,
+            "exp": 345,
+            "kills": 1526
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8925,
+            "exp": 20491,
+            "kills": 26
+        }
+    },
+    "63": {
+        "diff": 60537,
+        "req": 586951,
+        "total": 7559784,
+        "growthFactor": 1.12,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.057,
+            "exp": 335,
+            "kills": 1753
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.06501,
+            "exp": 382,
+            "kills": 1537
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.89,
+            "exp": 22832,
+            "kills": 26
+        }
+    },
+    "64": {
+        "diff": 70434,
+        "req": 657385,
+        "total": 8217169,
+        "growthFactor": 1.125,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05675,
+            "exp": 373,
+            "kills": 1763
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.06451,
+            "exp": 424,
+            "kills": 1551
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8875,
+            "exp": 25556,
+            "kills": 26
+        }
+    },
+    "65": {
+        "diff": 82173,
+        "req": 739558,
+        "total": 8956727,
+        "growthFactor": 1.13,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.0565,
+            "exp": 418,
+            "kills": 1770
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.06401,
+            "exp": 473,
+            "kills": 1564
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.885,
+            "exp": 28732,
+            "kills": 26
+        }
+    },
+    "66": {
+        "diff": 96142,
+        "req": 835700,
+        "total": 9792427,
+        "growthFactor": 1.135,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05625,
+            "exp": 470,
+            "kills": 1779
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.06351,
+            "exp": 531,
+            "kills": 1574
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8825,
+            "exp": 32446,
+            "kills": 26
+        }
+    },
+    "67": {
+        "diff": 112819,
+        "req": 948519,
+        "total": 10740946,
+        "growthFactor": 1.14,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.056,
+            "exp": 531,
+            "kills": 1787
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.06301,
+            "exp": 598,
+            "kills": 1587
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.88,
+            "exp": 36803,
+            "kills": 26
+        }
+    },
+    "68": {
+        "diff": 132792,
+        "req": 1081311,
+        "total": 11822257,
+        "growthFactor": 1.145,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05575,
+            "exp": 603,
+            "kills": 1794
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.06251,
+            "exp": 676,
+            "kills": 1600
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8775,
+            "exp": 41928,
+            "kills": 26
+        }
+    },
+    "69": {
+        "diff": 156790,
+        "req": 1238101,
+        "total": 13060358,
+        "growthFactor": 1.15,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.0555,
+            "exp": 687,
+            "kills": 1803
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.06201,
+            "exp": 768,
+            "kills": 1613
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.875,
+            "exp": 47976,
+            "kills": 26
+        }
+    },
+    "70": {
+        "diff": 185715,
+        "req": 1423816,
+        "total": 14484174,
+        "growthFactor": 1.155,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05525,
+            "exp": 787,
+            "kills": 1810
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.06151,
+            "exp": 876,
+            "kills": 1626
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8725,
+            "exp": 55137,
+            "kills": 26
+        }
+    },
+    "71": {
+        "diff": 220691,
+        "req": 1644507,
+        "total": 16128681,
+        "growthFactor": 1.16,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.055,
+            "exp": 904,
+            "kills": 1820
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.06101,
+            "exp": 1003,
+            "kills": 1640
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.87,
+            "exp": 63642,
+            "kills": 26
+        }
+    },
+    "72": {
+        "diff": 263121,
+        "req": 1907628,
+        "total": 18036309,
+        "growthFactor": 1.165,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05475,
+            "exp": 1044,
+            "kills": 1828
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.06051,
+            "exp": 1154,
+            "kills": 1654
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8675,
+            "exp": 73778,
+            "kills": 26
+        }
+    },
+    "73": {
+        "diff": 314758,
+        "req": 2222386,
+        "total": 20258695,
+        "growthFactor": 1.17,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.0545,
+            "exp": 1211,
+            "kills": 1836
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.06001,
+            "exp": 1334,
+            "kills": 1666
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.865,
+            "exp": 85895,
+            "kills": 26
+        }
+    },
+    "74": {
+        "diff": 377805,
+        "req": 2600191,
+        "total": 22858886,
+        "growthFactor": 1.175,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05425,
+            "exp": 1411,
+            "kills": 1843
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.05951,
+            "exp": 1547,
+            "kills": 1681
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8625,
+            "exp": 100432,
+            "kills": 26
+        }
+    },
+    "75": {
+        "diff": 455033,
+        "req": 3055224,
+        "total": 25914110,
+        "growthFactor": 1.18,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.054,
+            "exp": 1650,
+            "kills": 1852
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.05901,
+            "exp": 1803,
+            "kills": 1695
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.86,
+            "exp": 117932,
+            "kills": 26
+        }
+    },
+    "76": {
+        "diff": 549940,
+        "req": 3605164,
+        "total": 29519274,
+        "growthFactor": 1.185,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05375,
+            "exp": 1938,
+            "kills": 1861
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.05851,
+            "exp": 2109,
+            "kills": 1710
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8575,
+            "exp": 139069,
+            "kills": 26
+        }
+    },
+    "77": {
+        "diff": 666955,
+        "req": 4272119,
+        "total": 33791393,
+        "growthFactor": 1.19,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.0535,
+            "exp": 2286,
+            "kills": 1869
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.05801,
+            "exp": 2478,
+            "kills": 1725
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.855,
+            "exp": 164690,
+            "kills": 26
+        }
+    },
+    "78": {
+        "diff": 811702,
+        "req": 5083821,
+        "total": 38875214,
+        "growthFactor": 1.195,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05325,
+            "exp": 2707,
+            "kills": 1879
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.05751,
+            "exp": 2924,
+            "kills": 1739
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8525,
+            "exp": 195854,
+            "kills": 26
+        }
+    },
+    "79": {
+        "diff": 991345,
+        "req": 6075166,
+        "total": 44950380,
+        "growthFactor": 1.2,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.053,
+            "exp": 3220,
+            "kills": 1887
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.05701,
+            "exp": 3463,
+            "kills": 1755
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.85,
+            "exp": 233894,
+            "kills": 26
+        }
+    },
+    "80": {
+        "diff": 1215033,
+        "req": 7290199,
+        "total": 52240579,
+        "growthFactor": 1.205,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05275,
+            "exp": 3846,
+            "kills": 1896
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.05651,
+            "exp": 4120,
+            "kills": 1770
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8475,
+            "exp": 280490,
+            "kills": 26
+        }
+    },
+    "81": {
+        "diff": 1494490,
+        "req": 8784689,
+        "total": 61025268,
+        "growthFactor": 1.21,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.0525,
+            "exp": 4612,
+            "kills": 1905
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.05601,
+            "exp": 4920,
+            "kills": 1786
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.845,
+            "exp": 337771,
+            "kills": 27
+        }
+    },
+    "82": {
+        "diff": 1844784,
+        "req": 10629473,
+        "total": 71654741,
+        "growthFactor": 1.215,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05225,
+            "exp": 5554,
+            "kills": 1914
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.05551,
+            "exp": 5900,
+            "kills": 1802
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8425,
+            "exp": 408438,
+            "kills": 27
+        }
+    },
+    "83": {
+        "diff": 2285336,
+        "req": 12914809,
+        "total": 84569550,
+        "growthFactor": 1.22,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.052,
+            "exp": 6716,
+            "kills": 1923
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.05501,
+            "exp": 7104,
+            "kills": 1818
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.84,
+            "exp": 495929,
+            "kills": 27
+        }
+    },
+    "84": {
+        "diff": 2841257,
+        "req": 15756066,
+        "total": 100325616,
+        "growthFactor": 1.225,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05175,
+            "exp": 8154,
+            "kills": 1933
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.05451,
+            "exp": 8589,
+            "kills": 1835
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8375,
+            "exp": 604639,
+            "kills": 27
+        }
+    },
+    "85": {
+        "diff": 3545114,
+        "req": 19301180,
+        "total": 119626796,
+        "growthFactor": 1.23,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.0515,
+            "exp": 9940,
+            "kills": 1942
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.05401,
+            "exp": 10425,
+            "kills": 1852
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.835,
+            "exp": 740200,
+            "kills": 27
+        }
+    },
+    "86": {
+        "diff": 4439271,
+        "req": 23740451,
+        "total": 143367247,
+        "growthFactor": 1.235,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05125,
+            "exp": 12167,
+            "kills": 1952
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.05351,
+            "exp": 12704,
+            "kills": 1869
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8325,
+            "exp": 909853,
+            "kills": 27
+        }
+    },
+    "87": {
+        "diff": 5579005,
+        "req": 29319456,
+        "total": 172686703,
+        "growthFactor": 1.24,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.051,
+            "exp": 14953,
+            "kills": 1961
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.05301,
+            "exp": 15542,
+            "kills": 1887
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.83,
+            "exp": 1122935,
+            "kills": 27
+        }
+    },
+    "88": {
+        "diff": 7036669,
+        "req": 36356125,
+        "total": 209042828,
+        "growthFactor": 1.245,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05075,
+            "exp": 18451,
+            "kills": 1971
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.05251,
+            "exp": 19091,
+            "kills": 1905
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8275,
+            "exp": 1391531,
+            "kills": 27
+        }
+    },
+    "89": {
+        "diff": 8907250,
+        "req": 45263375,
+        "total": 254306203,
+        "growthFactor": 1.25,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.0505,
+            "exp": 22858,
+            "kills": 1981
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.05201,
+            "exp": 23541,
+            "kills": 1923
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.825,
+            "exp": 1731324,
+            "kills": 27
+        }
+    },
+    "90": {
+        "diff": 11315843,
+        "req": 56579218,
+        "total": 310885421,
+        "growthFactor": 1.255,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05025,
+            "exp": 28431,
+            "kills": 1991
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.05151,
+            "exp": 29144,
+            "kills": 1942
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8225,
+            "exp": 2162741,
+            "kills": 27
+        }
+    },
+    "91": {
+        "diff": 14427700,
+        "req": 71006918,
+        "total": 381892339,
+        "growthFactor": 1.26,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.05,
+            "exp": 35503,
+            "kills": 2001
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.05101,
+            "exp": 36221,
+            "kills": 1961
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.82,
+            "exp": 2712464,
+            "kills": 27
+        }
+    },
+    "92": {
+        "diff": 18461798,
+        "req": 89468716,
+        "total": 471361055,
+        "growthFactor": 1.265,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.04975,
+            "exp": 44511,
+            "kills": 2011
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.05051,
+            "exp": 45191,
+            "kills": 1980
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8175,
+            "exp": 3415468,
+            "kills": 27
+        }
+    },
+    "93": {
+        "diff": 23709209,
+        "req": 113177925,
+        "total": 584538980,
+        "growthFactor": 1.27,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.0495,
+            "exp": 56023,
+            "kills": 2021
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.05001,
+            "exp": 56600,
+            "kills": 2000
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.815,
+            "exp": 4317738,
+            "kills": 27
+        }
+    },
+    "94": {
+        "diff": 30558039,
+        "req": 143735964,
+        "total": 728274944,
+        "growthFactor": 1.275,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.04925,
+            "exp": 70790,
+            "kills": 2031
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.04951,
+            "exp": 71164,
+            "kills": 2020
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8125,
+            "exp": 5479934,
+            "kills": 27
+        }
+    },
+    "95": {
+        "diff": 39527390,
+        "req": 183263354,
+        "total": 911538298,
+        "growthFactor": 1.28,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.049,
+            "exp": 89799,
+            "kills": 2041
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.04901,
+            "exp": 89817,
+            "kills": 2041
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.81,
+            "exp": 6982334,
+            "kills": 27
+        }
+    },
+    "96": {
+        "diff": 51313739,
+        "req": 234577093,
+        "total": 1146115391,
+        "growthFactor": 1.285,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.04875,
+            "exp": 114356,
+            "kills": 2052
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.04851,
+            "exp": 113793,
+            "kills": 2062
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8075,
+            "exp": 8931523,
+            "kills": 27
+        }
+    },
+    "97": {
+        "diff": 66854471,
+        "req": 301431564,
+        "total": 1447546955,
+        "growthFactor": 1.29,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.0485,
+            "exp": 146194,
+            "kills": 2062
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.04801,
+            "exp": 144717,
+            "kills": 2083
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.805,
+            "exp": 11469471,
+            "kills": 27
+        }
+    },
+    "98": {
+        "diff": 87415153,
+        "req": 388846717,
+        "total": 1836393672,
+        "growthFactor": 1.295,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.04825,
+            "exp": 187619,
+            "kills": 2073
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.04751,
+            "exp": 184741,
+            "kills": 2105
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8025,
+            "exp": 14785896,
+            "kills": 27
+        }
+    },
+    "99": {
+        "diff": 114709781,
+        "req": 503556498,
+        "total": 2339950170,
+        "growthFactor": 1.3,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.048,
+            "exp": 241707,
+            "kills": 2084
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.04701,
+            "exp": 236722,
+            "kills": 2128
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.8,
+            "exp": 19135147,
+            "kills": 27
+        }
+    },
+    "100": {
+        "diff": 151066949,
+        "req": 654623447,
+        "total": 2994573617,
+        "growthFactor": 1.305,
+        "monsterA": {
+            "decrementProportion": 0.00025,
+            "randomVariation": 0.04775,
+            "exp": 312583,
+            "kills": 2095
+        },
+        "monsterB": {
+            "decrementProportion": 0.0005,
+            "randomVariation": 0.04651,
+            "exp": 304465,
+            "kills": 2151
+        },
+        "bossExtra": {
+            "decrementProportion": 0.0025,
+            "randomVariation": 3.7975,
+            "exp": 24859325,
+            "kills": 27
+        }
+    }
+}
