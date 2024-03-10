@@ -11,8 +11,8 @@ const monstersExperiencePerLevel = new MonstersExperiencePerLevel({
     levelsExperienceByKey: playerLevels,
     variations: {
         monsterA: 8,
-        monsterB: 12,
-        bossExtra: 25
+        monsterB: 9,
+        bossExtra: 15
     },
     decrementProportionPerLevel: {
         '5': 0.8,
