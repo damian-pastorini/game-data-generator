@@ -50,9 +50,9 @@ let monstersExperiencePerLevel = new MonsterAttributesPerLevel({
         }
     },
     variationsScaleFactorsMinMax: {
-        monsterA: {min: 1, max: 1.2},
-        monsterB: {min: 1.2, max: 1.4},
-        boss: {min: 1.5, max: 2.5}
+        monsterA: {min: 1, max: 1.5},
+        monsterB: {min: 1.5, max: 1.8},
+        boss: {min: 2.5, max: 3.5}
     },
     monsterTypesVariations: ['monsterA', 'monsterB', 'boss']
 });
