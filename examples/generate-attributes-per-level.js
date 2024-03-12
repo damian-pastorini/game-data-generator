@@ -4,10 +4,10 @@
  *
  */
 
-const { MonsterAttributesPerLevel } = require('../lib/generator/monsters-attributes-per-level');
+const { AttributesPerLevel } = require('../lib/generator/attributes-per-level');
 
-let monstersExperiencePerLevel = new MonsterAttributesPerLevel({
-    monsterBase: {
+let attributesPerLevel = new AttributesPerLevel({
+    templateBase: {
         hp: 10,
         atk: 10,
         def: 10,
@@ -19,9 +19,9 @@ let monstersExperiencePerLevel = new MonsterAttributesPerLevel({
     },
     typeTemplates: {
         melee: {
-            hp: {min: 7, max: 20},
-            atk: {min: 7, max: 20},
-            def: {min: 7, max: 20},
+            hp: {min: 10, max: 20},
+            atk: {min: 10, max: 20},
+            def: {min: 10, max: 20},
             speed: {min: 1, max: 2},
             mAtk: {min: 1, max: 2},
             mDef: {min: 1, max: 2},
@@ -33,8 +33,8 @@ let monstersExperiencePerLevel = new MonsterAttributesPerLevel({
             atk: {min: 1, max: 2},
             def: {min: 1, max: 2},
             speed: {min: 1, max: 4},
-            mAtk: {min: 7, max: 20},
-            mDef: {min: 7, max: 20},
+            mAtk: {min: 10, max: 20},
+            mDef: {min: 10, max: 20},
             dodge: {min: 1, max: 2},
             aim: {min: 5, max: 10}
         },
@@ -49,12 +49,11 @@ let monstersExperiencePerLevel = new MonsterAttributesPerLevel({
             aim: {min: 7, max: 20}
         }
     },
-    variationsScaleFactorsMinMax: {
+    typesVariations: {
         monsterA: {min: 1, max: 1.5},
         monsterB: {min: 1.5, max: 1.8},
         boss: {min: 2.5, max: 3.5}
-    },
-    monsterTypesVariations: ['monsterA', 'monsterB', 'boss']
+    }
 });
 
-monstersExperiencePerLevel.generate();
+attributesPerLevel.generate();
