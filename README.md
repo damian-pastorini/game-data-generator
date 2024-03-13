@@ -12,7 +12,7 @@ Need some specific feature?
 
 ## Documentation
 
-[https://www.reldens.com/documentation/game-data-generator/](https://www.reldens.com/documentation/tile-map-optimizer/)
+[https://www.reldens.com/documentation/game-data-generator/](https://www.reldens.com/documentation/game-data-generator/)
 
 ---
 

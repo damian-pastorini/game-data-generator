@@ -1,7 +1,7 @@
 {
     "name": "@reldens/game-data-generator",
     "scope": "@reldens",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Reldens - Game Data Generator",
     "author": "Damian A. Pastorini",
     "license": "MIT",
@@ -29,7 +29,9 @@
         "enemy",
         "enemies",
         "level",
-        "experience"
+        "experience",
+        "stats",
+        "attribute"
     ],
     "bugs": {
         "url": "https://github.com/damian-pastorini/game-data-generator/issues"
