@@ -9,6 +9,7 @@ const { AttributesPerLevel } = require('../lib/generator/attributes-per-level');
 let attributesPerLevel = new AttributesPerLevel({
     templateBase: {
         hp: 10,
+        mp: 10,
         atk: 10,
         def: 10,
         speed: 10,
@@ -20,6 +21,7 @@ let attributesPerLevel = new AttributesPerLevel({
     typeTemplates: {
         melee: {
             hp: {min: 10, max: 20},
+            mp: {min: 1, max: 5},
             atk: {min: 10, max: 20},
             def: {min: 10, max: 20},
             speed: {min: 1, max: 2},
@@ -30,6 +32,7 @@ let attributesPerLevel = new AttributesPerLevel({
         },
         mage: {
             hp: {min: 5, max: 10},
+            mp: {min: 10, max: 20},
             atk: {min: 1, max: 2},
             def: {min: 1, max: 2},
             speed: {min: 1, max: 4},
@@ -40,6 +43,7 @@ let attributesPerLevel = new AttributesPerLevel({
         },
         archer: {
             hp: {min: 5, max: 10},
+            mp: {min: 5, max: 10},
             atk: {min: 5, max: 10},
             def: {min: 1, max: 4},
             speed: {min: 5, max: 10},
