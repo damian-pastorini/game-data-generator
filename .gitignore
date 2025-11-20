@@ -19,6 +19,7 @@ node_modules/
 .npm
 
 # Project
+.claude
 .idea
 examples/generated/*.png
 examples/generated/*.json
