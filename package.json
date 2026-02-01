@@ -1,7 +1,7 @@
 {
     "name": "@reldens/game-data-generator",
     "scope": "@reldens",
-    "version": "0.24.0",
+    "version": "0.25.0",
     "description": "Reldens - Game Data Generator",
     "author": "Damian A. Pastorini",
     "license": "MIT",
@@ -38,6 +38,6 @@
     },
     "dependencies": {
         "@reldens/utils": "^0.54.0",
-        "@reldens/server-utils": "^0.44.0"
+        "@reldens/server-utils": "^0.46.0"
     }
 }
