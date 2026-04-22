@@ -1,7 +1,3 @@
-# CLAUDE.md
-
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
 ## Package Overview
 
 **@reldens/game-data-generator** is a game data generation package for Reldens. It provides utilities to generate balanced game data for RPG systems including:
